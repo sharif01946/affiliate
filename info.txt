@@ -1,0 +1,3 @@
+db  : elavanto_affiliate
+user: elavanto_affilia
+pass: 5u438fls#%fds34#
